@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+</body>
+
+<script>
+
+    // if đơn
+    // Cho người dùng nhập vào điểm. Nếu điểm lớn hơn 8 hiển thị loại giỏi.
+    // let point = prompt("Nhập điểm:");
+    // if (point > 8) {
+    //     alert("Loại giỏi");
+    // }
+
+    //if / else
+    // Cho người dùng nhập vào điểm. Nếu điểm lớn hơn 8 hiển thị loại giỏi.
+    // Còn lại hiển thị chưa xác định
+    // let point = prompt("Nhập điểm:");
+    // if (point > 8) {
+    //     alert("Loại giỏi");
+    // } else{
+    //     alert("Chưa xác định");
+    // }
+
+    //if / else if else...
+    // Cho người dùng nhập vào điểm. Nếu điểm lớn hơn 8 hiển thị loại giỏi.
+    // Từ 6 đến nhỏ hơn 8 thì loại khá
+    // Từ 4 đến nhỏ hơn 6 thì loại trung bình
+    // Còn lại yếu.
+    // let point = +prompt("Nhập điểm:");
+    // if (8 < point) {
+    //     alert("Loại giỏi");
+    // } else if (6 <= point) {
+    //     alert("Loại khá");
+    // } else if (4 <= point) {
+    //     alert("Loại trung bình");
+    // } else {
+    //     alert("Loại yếu");
+    // }
+
+    // if lồng nhau
+    let year = parseInt(prompt("Enter a year"));
+    if (year % 4 === 0) {
+        if (year % 100 === 0) {
+            if (year % 400 === 0) {
+                alert("năm nhuận")
+            } else {
+                alert(" không năm nhuận")
+            }
+        } else {
+            alert("năm nhuận")
+        }
+    } else {
+        alert(" không năm nhuận")
+    }
+
+</script>
+</html>

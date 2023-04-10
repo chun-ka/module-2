@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+</body>
+<script>
+    // Cho người dùng nhập vào 1 tháng
+    // -> hiển thị tháng đó thuộc mùa nào trong năm
+    // Mùa xuân : 1,2,3
+    // Mùa hè: 4,5,6
+    // Mùa thu: 7 8 9
+    // Mùa đông: 10 11 12
+    let month = parseInt(prompt("Nhập vào tháng trong năm: "));
+    switch (month) {
+        case 1:
+        case 2:
+        case 3:
+            alert("mùa xuân");
+            break;
+        case 4:
+        case 5:
+        case 6:
+            alert("mùa hè");
+            break;
+        case 7:
+        case 8:
+        case 9:
+            alert("mùa thu");
+            break;
+        case 10:
+        case 11:
+        case 12:
+            alert("mùa đông");
+            break;
+        default:
+            alert("Không có tháng này");
+    }
+</script>
+</html>

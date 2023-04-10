@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e9e011d-54be-4c44-8201-b7df97f1ca07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resot_web/src/main/webapp/customer/customer_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resot_web/src/main/webapp/employee/employee_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resot_web/src/main/webapp/facility/facility_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resot_web/src/main/webapp/furama_home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resot_web/src/main/webapp/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/module2/furama_resort/utils/write_and_read/WriteFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/module2/furama_resort/utils/write_and_read/WriteFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/write_and_read/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/utils/write_and_read/WriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phuong_tien_giao_thong/model/Oto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../phuong_tien_giao_thong/model/Oto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phuong_tien_giao_thong/model/PhuongTien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../phuong_tien_giao_thong/model/PhuongTien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phuong_tien_giao_thong/model/XeMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../phuong_tien_giao_thong/model/XeMay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phuong_tien_giao_thong/model/XeTai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../phuong_tien_giao_thong/model/XeTai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss16_io/practice/practice3/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ss16_io/practice/practice3/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss16_io/practice/practice3/source_file" beforeDir="false" afterPath="$PROJECT_DIR$/../ss16_io/practice/practice3/source_file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss16_io/practice/practice3/targetfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ss16_io/practice/practice3/targetfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resort/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resort/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resort/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resort/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resort/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../module3/case_study_web/furama/furama_resort/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HIHNS1f23O1QNxm3xS0ltWjzSa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e9e011d-54be-4c44-8201-b7df97f1ca07" name="Changes" comment="" />
+      <created>1667965636757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667965636757</updated>
+      <workItem from="1667965639089" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
